@@ -1,1 +1,2 @@
 Hello there! I am in story2 
+feature1 is added to the second story.
